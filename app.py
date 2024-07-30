@@ -1,5 +1,3 @@
-from tkinter import font
-from turtle import width
 from dash import Dash, html, dash_table, dcc, callback, Output, Input, exceptions, State
 import dash_bootstrap_components as dbc
 import datetime
@@ -156,7 +154,7 @@ def get_stock_data(ticker_input):
     ticker = ticker_input.upper().strip()
 
     engine = sql.create_engine(
-        "sqlite:////home/kole/pythonStuff/dataAnalyticsProj/real.db"
+        "sqlite:////home/kole/pythonStuff/dataAnalyticsProj/insiderdashboard/real.db"
     )
     con = engine.connect()
     query = f'SELECT * FROM insider_data WHERE ISSUERTRADINGSYMBOL = "{ticker}"'
