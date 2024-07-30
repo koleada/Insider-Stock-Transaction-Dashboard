@@ -1,0 +1,731 @@
+{
+    "WLTGQ": [
+        {
+            "FILE_NUM": 38,
+            "ACCESSION_NUMBER": "0001247524-15-000247",
+            "FILING_DATE": "28-AUG-2015"
+        },
+        {
+            "FILE_NUM": 38,
+            "ACCESSION_NUMBER": "0001247524-15-000243",
+            "FILING_DATE": "25-AUG-2015"
+        },
+        {
+            "FILE_NUM": 38,
+            "ACCESSION_NUMBER": "0001247524-15-000241",
+            "FILING_DATE": "24-AUG-2015"
+        },
+        {
+            "FILE_NUM": 38,
+            "ACCESSION_NUMBER": "0001247524-15-000237",
+            "FILING_DATE": "19-AUG-2015"
+        },
+        {
+            "FILE_NUM": 38,
+            "ACCESSION_NUMBER": "0001247524-15-000239",
+            "FILING_DATE": "19-AUG-2015"
+        },
+        {
+            "FILE_NUM": 38,
+            "ACCESSION_NUMBER": "0001247524-15-000259",
+            "FILING_DATE": "11-SEP-2015"
+        },
+        {
+            "FILE_NUM": 38,
+            "ACCESSION_NUMBER": "0001247524-15-000253",
+            "FILING_DATE": "01-SEP-2015"
+        },
+        {
+            "FILE_NUM": 40,
+            "ACCESSION_NUMBER": "0001247524-16-000352",
+            "FILING_DATE": "22-FEB-2016"
+        },
+        {
+            "FILE_NUM": 40,
+            "ACCESSION_NUMBER": "0001247524-16-000358",
+            "FILING_DATE": "22-FEB-2016"
+        },
+        {
+            "FILE_NUM": 40,
+            "ACCESSION_NUMBER": "0001247524-16-000354",
+            "FILING_DATE": "22-FEB-2016"
+        },
+        {
+            "FILE_NUM": 40,
+            "ACCESSION_NUMBER": "0001247524-16-000360",
+            "FILING_DATE": "22-FEB-2016"
+        },
+        {
+            "FILE_NUM": 40,
+            "ACCESSION_NUMBER": "0001247524-16-000356",
+            "FILING_DATE": "22-FEB-2016"
+        },
+        {
+            "FILE_NUM": 40,
+            "ACCESSION_NUMBER": "0001247524-16-000350",
+            "FILING_DATE": "22-FEB-2016"
+        },
+        {
+            "FILE_NUM": 41,
+            "ACCESSION_NUMBER": "0001247524-16-000459",
+            "FILING_DATE": "13-APR-2016"
+        },
+        {
+            "FILE_NUM": 41,
+            "ACCESSION_NUMBER": "0001247524-16-000457",
+            "FILING_DATE": "13-APR-2016"
+        }
+    ],
+    "RYES": [
+        {
+            "FILE_NUM": 38,
+            "ACCESSION_NUMBER": "0001273511-15-000096",
+            "FILING_DATE": "28-AUG-2015"
+        },
+        {
+            "FILE_NUM": 38,
+            "ACCESSION_NUMBER": "0001273511-15-000097",
+            "FILING_DATE": "28-AUG-2015"
+        },
+        {
+            "FILE_NUM": 39,
+            "ACCESSION_NUMBER": "0001273511-15-000107",
+            "FILING_DATE": "15-OCT-2015"
+        },
+        {
+            "FILE_NUM": 42,
+            "ACCESSION_NUMBER": "0001273511-16-000215",
+            "FILING_DATE": "31-AUG-2016"
+        },
+        {
+            "FILE_NUM": 42,
+            "ACCESSION_NUMBER": "0001273511-16-000214",
+            "FILING_DATE": "31-AUG-2016"
+        },
+        {
+            "FILE_NUM": 42,
+            "ACCESSION_NUMBER": "0001273511-16-000222",
+            "FILING_DATE": "13-SEP-2016"
+        },
+        {
+            "FILE_NUM": 43,
+            "ACCESSION_NUMBER": "0001273511-16-000243",
+            "FILING_DATE": "10-NOV-2016"
+        },
+        {
+            "FILE_NUM": 44,
+            "ACCESSION_NUMBER": "0001273511-17-000006",
+            "FILING_DATE": "26-JAN-2017"
+        },
+        {
+            "FILE_NUM": 44,
+            "ACCESSION_NUMBER": "0001273511-17-000005",
+            "FILING_DATE": "26-JAN-2017"
+        },
+        {
+            "FILE_NUM": 44,
+            "ACCESSION_NUMBER": "0001273511-17-000004",
+            "FILING_DATE": "17-JAN-2017"
+        },
+        {
+            "FILE_NUM": 45,
+            "ACCESSION_NUMBER": "0001652014-17-000001",
+            "FILING_DATE": "25-MAY-2017"
+        },
+        {
+            "FILE_NUM": 45,
+            "ACCESSION_NUMBER": "0001651943-17-000001",
+            "FILING_DATE": "25-MAY-2017"
+        },
+        {
+            "FILE_NUM": 45,
+            "ACCESSION_NUMBER": "0001295431-17-000003",
+            "FILING_DATE": "05-MAY-2017"
+        },
+        {
+            "FILE_NUM": 45,
+            "ACCESSION_NUMBER": "0001705293-17-000001",
+            "FILING_DATE": "01-MAY-2017"
+        },
+        {
+            "FILE_NUM": 48,
+            "ACCESSION_NUMBER": "0001727689-18-000005",
+            "FILING_DATE": "28-FEB-2018"
+        },
+        {
+            "FILE_NUM": 48,
+            "ACCESSION_NUMBER": "0001727689-18-000001",
+            "FILING_DATE": "16-JAN-2018"
+        },
+        {
+            "FILE_NUM": 48,
+            "ACCESSION_NUMBER": "0001727689-18-000004",
+            "FILING_DATE": "14-FEB-2018"
+        },
+        {
+            "FILE_NUM": 48,
+            "ACCESSION_NUMBER": "0001727689-18-000006",
+            "FILING_DATE": "01-MAR-2018"
+        },
+        {
+            "FILE_NUM": 49,
+            "ACCESSION_NUMBER": "0001140361-18-020539",
+            "FILING_DATE": "30-APR-2018"
+        },
+        {
+            "FILE_NUM": 49,
+            "ACCESSION_NUMBER": "0001140361-18-020528",
+            "FILING_DATE": "30-APR-2018"
+        },
+        {
+            "FILE_NUM": 49,
+            "ACCESSION_NUMBER": "0001140361-18-020532",
+            "FILING_DATE": "30-APR-2018"
+        },
+        {
+            "FILE_NUM": 49,
+            "ACCESSION_NUMBER": "0001727689-18-000011",
+            "FILING_DATE": "21-JUN-2018"
+        },
+        {
+            "FILE_NUM": 49,
+            "ACCESSION_NUMBER": "0001727689-18-000010",
+            "FILING_DATE": "20-JUN-2018"
+        },
+        {
+            "FILE_NUM": 49,
+            "ACCESSION_NUMBER": "0001727689-18-000009",
+            "FILING_DATE": "14-JUN-2018"
+        },
+        {
+            "FILE_NUM": 49,
+            "ACCESSION_NUMBER": "0001140361-18-021949",
+            "FILING_DATE": "07-MAY-2018"
+        },
+        {
+            "FILE_NUM": 51,
+            "ACCESSION_NUMBER": "0001567619-18-007191",
+            "FILING_DATE": "30-NOV-2018"
+        },
+        {
+            "FILE_NUM": 51,
+            "ACCESSION_NUMBER": "0001567619-18-004576",
+            "FILING_DATE": "25-OCT-2018"
+        },
+        {
+            "FILE_NUM": 51,
+            "ACCESSION_NUMBER": "0001291644-18-000004",
+            "FILING_DATE": "20-DEC-2018"
+        },
+        {
+            "FILE_NUM": 51,
+            "ACCESSION_NUMBER": "0001291644-18-000003",
+            "FILING_DATE": "13-DEC-2018"
+        },
+        {
+            "FILE_NUM": 51,
+            "ACCESSION_NUMBER": "0001291644-18-000002",
+            "FILING_DATE": "11-DEC-2018"
+        },
+        {
+            "FILE_NUM": 51,
+            "ACCESSION_NUMBER": "0001567619-18-005226",
+            "FILING_DATE": "07-NOV-2018"
+        },
+        {
+            "FILE_NUM": 51,
+            "ACCESSION_NUMBER": "0001291644-18-000001",
+            "FILING_DATE": "06-DEC-2018"
+        },
+        {
+            "FILE_NUM": 51,
+            "ACCESSION_NUMBER": "0001727689-18-000014",
+            "FILING_DATE": "03-DEC-2018"
+        },
+        {
+            "FILE_NUM": 51,
+            "ACCESSION_NUMBER": "0001727689-18-000015",
+            "FILING_DATE": "03-DEC-2018"
+        },
+        {
+            "FILE_NUM": 52,
+            "ACCESSION_NUMBER": "0001727689-19-000002",
+            "FILING_DATE": "05-MAR-2019"
+        },
+        {
+            "FILE_NUM": 53,
+            "ACCESSION_NUMBER": "0001780964-19-000001",
+            "FILING_DATE": "28-JUN-2019"
+        },
+        {
+            "FILE_NUM": 54,
+            "ACCESSION_NUMBER": "0001727689-19-000011",
+            "FILING_DATE": "23-AUG-2019"
+        },
+        {
+            "FILE_NUM": 54,
+            "ACCESSION_NUMBER": "0001727689-19-000009",
+            "FILING_DATE": "23-AUG-2019"
+        },
+        {
+            "FILE_NUM": 54,
+            "ACCESSION_NUMBER": "0001567619-19-017554",
+            "FILING_DATE": "23-AUG-2019"
+        },
+        {
+            "FILE_NUM": 54,
+            "ACCESSION_NUMBER": "0001786366-19-000001",
+            "FILING_DATE": "23-AUG-2019"
+        },
+        {
+            "FILE_NUM": 54,
+            "ACCESSION_NUMBER": "0001567619-19-017552",
+            "FILING_DATE": "23-AUG-2019"
+        },
+        {
+            "FILE_NUM": 54,
+            "ACCESSION_NUMBER": "0001727689-19-000010",
+            "FILING_DATE": "23-AUG-2019"
+        },
+        {
+            "FILE_NUM": 54,
+            "ACCESSION_NUMBER": "0001727689-19-000007",
+            "FILING_DATE": "12-JUL-2019"
+        },
+        {
+            "FILE_NUM": 58,
+            "ACCESSION_NUMBER": "0001727689-20-000006",
+            "FILING_DATE": "23-SEP-2020"
+        },
+        {
+            "FILE_NUM": 58,
+            "ACCESSION_NUMBER": "0001727689-20-000003",
+            "FILING_DATE": "04-AUG-2020"
+        },
+        {
+            "FILE_NUM": 58,
+            "ACCESSION_NUMBER": "0001727689-20-000002",
+            "FILING_DATE": "04-AUG-2020"
+        },
+        {
+            "FILE_NUM": 59,
+            "ACCESSION_NUMBER": "0001567619-20-018191",
+            "FILING_DATE": "26-OCT-2020"
+        },
+        {
+            "FILE_NUM": 59,
+            "ACCESSION_NUMBER": "0001567619-20-018187",
+            "FILING_DATE": "26-OCT-2020"
+        },
+        {
+            "FILE_NUM": 59,
+            "ACCESSION_NUMBER": "0001567619-20-018194",
+            "FILING_DATE": "26-OCT-2020"
+        },
+        {
+            "FILE_NUM": 59,
+            "ACCESSION_NUMBER": "0001786366-20-000002",
+            "FILING_DATE": "20-NOV-2020"
+        },
+        {
+            "FILE_NUM": 59,
+            "ACCESSION_NUMBER": "0001567619-20-020797",
+            "FILING_DATE": "09-DEC-2020"
+        },
+        {
+            "FILE_NUM": 59,
+            "ACCESSION_NUMBER": "0001727689-20-000009",
+            "FILING_DATE": "08-OCT-2020"
+        },
+        {
+            "FILE_NUM": 59,
+            "ACCESSION_NUMBER": "0001727689-20-000010",
+            "FILING_DATE": "08-OCT-2020"
+        },
+        {
+            "FILE_NUM": 59,
+            "ACCESSION_NUMBER": "0001727689-20-000008",
+            "FILING_DATE": "05-OCT-2020"
+        },
+        {
+            "FILE_NUM": 59,
+            "ACCESSION_NUMBER": "0001727689-20-000007",
+            "FILING_DATE": "01-OCT-2020"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001727689-22-000004",
+            "FILING_DATE": "31-JAN-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001727689-22-000003",
+            "FILING_DATE": "31-JAN-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001567619-22-002001",
+            "FILING_DATE": "28-JAN-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001567619-22-002004",
+            "FILING_DATE": "28-JAN-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001567619-22-004645",
+            "FILING_DATE": "15-FEB-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001727689-22-000009",
+            "FILING_DATE": "09-FEB-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001727689-22-000010",
+            "FILING_DATE": "09-FEB-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001727689-22-000008",
+            "FILING_DATE": "09-FEB-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001567619-22-002879",
+            "FILING_DATE": "08-FEB-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001567619-22-002881",
+            "FILING_DATE": "08-FEB-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001727689-22-000007",
+            "FILING_DATE": "08-FEB-2022"
+        },
+        {
+            "FILE_NUM": 64,
+            "ACCESSION_NUMBER": "0001727689-22-000005",
+            "FILING_DATE": "01-FEB-2022"
+        },
+        {
+            "FILE_NUM": 65,
+            "ACCESSION_NUMBER": "0001727689-22-000017",
+            "FILING_DATE": "27-APR-2022"
+        },
+        {
+            "FILE_NUM": 65,
+            "ACCESSION_NUMBER": "0001727689-22-000020",
+            "FILING_DATE": "23-JUN-2022"
+        },
+        {
+            "FILE_NUM": 65,
+            "ACCESSION_NUMBER": "0001727689-22-000018",
+            "FILING_DATE": "22-JUN-2022"
+        },
+        {
+            "FILE_NUM": 65,
+            "ACCESSION_NUMBER": "0001567619-22-013188",
+            "FILING_DATE": "21-JUN-2022"
+        },
+        {
+            "FILE_NUM": 67,
+            "ACCESSION_NUMBER": "0001727689-22-000041",
+            "FILING_DATE": "22-DEC-2022"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001567619-23-003511",
+            "FILING_DATE": "22-FEB-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001727689-23-000003",
+            "FILING_DATE": "22-FEB-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001567619-23-003521",
+            "FILING_DATE": "22-FEB-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001727689-23-000005",
+            "FILING_DATE": "22-FEB-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001727689-23-000009",
+            "FILING_DATE": "22-FEB-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001727689-23-000007",
+            "FILING_DATE": "22-FEB-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001727689-23-000014",
+            "FILING_DATE": "13-MAR-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001727689-23-000013",
+            "FILING_DATE": "10-MAR-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001727689-23-000012",
+            "FILING_DATE": "10-MAR-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001667731-23-000067",
+            "FILING_DATE": "02-FEB-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001567619-23-001715",
+            "FILING_DATE": "02-FEB-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001667731-23-000069",
+            "FILING_DATE": "02-FEB-2023"
+        },
+        {
+            "FILE_NUM": 68,
+            "ACCESSION_NUMBER": "0001667731-23-000065",
+            "FILING_DATE": "01-FEB-2023"
+        },
+        {
+            "FILE_NUM": 69,
+            "ACCESSION_NUMBER": "0000912282-23-000127",
+            "FILING_DATE": "14-JUN-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0001727689-23-000075",
+            "FILING_DATE": "26-SEP-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0001727689-23-000077",
+            "FILING_DATE": "26-SEP-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0000912282-23-000391",
+            "FILING_DATE": "26-SEP-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0001727689-23-000074",
+            "FILING_DATE": "26-SEP-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0000912282-23-000390",
+            "FILING_DATE": "26-SEP-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0001727689-23-000076",
+            "FILING_DATE": "26-SEP-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0000912282-23-000323",
+            "FILING_DATE": "22-AUG-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0000912282-23-000325",
+            "FILING_DATE": "22-AUG-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0001727689-23-000070",
+            "FILING_DATE": "14-SEP-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0001727689-23-000062",
+            "FILING_DATE": "14-AUG-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0001727689-23-000061",
+            "FILING_DATE": "11-AUG-2023"
+        },
+        {
+            "FILE_NUM": 70,
+            "ACCESSION_NUMBER": "0001727689-23-000060",
+            "FILING_DATE": "11-AUG-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000080",
+            "FILING_DATE": "18-OCT-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000092",
+            "FILING_DATE": "17-NOV-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000105",
+            "FILING_DATE": "14-DEC-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000101",
+            "FILING_DATE": "14-DEC-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000103",
+            "FILING_DATE": "14-DEC-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000104",
+            "FILING_DATE": "14-DEC-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000102",
+            "FILING_DATE": "14-DEC-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000100",
+            "FILING_DATE": "13-DEC-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0000912282-23-000567",
+            "FILING_DATE": "12-DEC-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000098",
+            "FILING_DATE": "11-DEC-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000097",
+            "FILING_DATE": "11-DEC-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000088",
+            "FILING_DATE": "09-NOV-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000089",
+            "FILING_DATE": "09-NOV-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000086",
+            "FILING_DATE": "09-NOV-2023"
+        },
+        {
+            "FILE_NUM": 71,
+            "ACCESSION_NUMBER": "0001727689-23-000087",
+            "FILING_DATE": "09-NOV-2023"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000041",
+            "FILING_DATE": "12-APR-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000040",
+            "FILING_DATE": "11-APR-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000061",
+            "FILING_DATE": "07-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000053",
+            "FILING_DATE": "03-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000051",
+            "FILING_DATE": "03-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000052",
+            "FILING_DATE": "03-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000058",
+            "FILING_DATE": "03-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000060",
+            "FILING_DATE": "03-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000054",
+            "FILING_DATE": "03-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000057",
+            "FILING_DATE": "03-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000056",
+            "FILING_DATE": "03-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000059",
+            "FILING_DATE": "03-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000055",
+            "FILING_DATE": "03-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0000912282-24-000427",
+            "FILING_DATE": "02-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000049",
+            "FILING_DATE": "01-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000047",
+            "FILING_DATE": "01-MAY-2024"
+        },
+        {
+            "FILE_NUM": 73,
+            "ACCESSION_NUMBER": "0001727689-24-000048",
+            "FILING_DATE": "01-MAY-2024"
+        }
+    ]
+}

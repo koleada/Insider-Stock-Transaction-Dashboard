@@ -1,0 +1,27 @@
+we can put a sql query directly into a polar dataframe for processing. 
+
+once all of the data is in the sqlite db, we can make the main program that will import a table into a polar dataframe. the table names are the names of the stock ticker. 
+importing to dataframe will keep all the correct column names and stuff too. 
+
+once in the dataframe we can process and visualize the data accordingly and it will be fast, intuitive and efficient
+
+code:
+
+import polars as pl
+
+# Connect to your database (replace with your connection details)
+conn = sqlite3.connect("your_database.db")  # Assuming SQLite
+
+# Define the SQL query
+sql_query = "SELECT * FROM your_table_name"  # Replace with your actual query
+
+# Read the results into a DataFrame
+df = pl.read_database(sql_query, connection=conn)
+
+# Print the column names
+print(df.columns)
+
+# Close the connection
+conn.close()
+
+

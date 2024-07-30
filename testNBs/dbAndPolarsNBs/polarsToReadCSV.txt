@@ -1,0 +1,51 @@
+** note we can also import polars dataframe into sql DB which could be useful in for populating the database with the rest of the insider trade info. **
+
+polar supports reading only specifc columns in from tsv files as well. 
+
+code:
+***** have heard that sep='\t' doesnt work so trying using delimiter='\t' *****
+
+**** scan_csv IS RECCOMENDED FOR LARGE DATA SETS SO TRY THIS FIRST ****
+
+import polars as pl
+
+
+
+
+# Path to your TSV file
+data_path = "your_data.tsv"
+
+# Define the desired columns you want to extract
+desired_columns = ["column1", "column3"]
+
+# Scan the TSV file (lazy loading)
+lf = pl.scan_csv(data_path, sep="\t")
+
+# Select only the desired columns and collect the DataFrame (materialize)
+extracted_df = lf.select(desired_columns).collect()  # Replace with .filter(...) if needed
+
+# Print the extracted DataFrame
+print(extracted_df)
+
+-------------
+OR COULD TRY
+-------------
+
+import polars as pl
+
+# Path to your TSV file
+data_path = "your_data.tsv"
+
+# Read the TSV file into a DataFrame
+df = pl.read_csv(data_path, sep="\t")  # Specify tab separator 
+
+# Define the column names you want to extract
+desired_columns = ["column1", "column3"]  # Replace with your actual column names
+
+# Select only the desired columns into a new DataFrame
+extracted_df = df[desired_columns]
+
+# Print the extracted DataFrame
+print(extracted_df)
+
+
