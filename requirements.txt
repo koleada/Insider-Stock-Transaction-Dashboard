@@ -1,0 +1,11 @@
+yfinance
+SQLAlchemy
+pandas
+plotly
+polars 
+dash                         
+dash-bootstrap-components    
+dash-core-components         
+dash-html-components         
+dash-table                   
+numpy
