@@ -23,12 +23,15 @@ The insider page contains a main graph showcasing stock prices with all insider 
 
 **Technical Page:**
 The technical page focuses less on insider trades and more on some of the most common and useful technical indicators. The main graph on this page is a candlestick chart of the stock's daily closing price. It then contains 3 commons SMAs 50-day, 100-day, and 200-day. I also highlighted golden and death crosses which, for those unfamiliar, are very effective indicators. A golden cross occurs when the 50-day SMA rises above the 200-day SMA and the reverse indicates a death cross. These indicators are very good at identifying long-term momentum shifts. I did include the insider data on this graph as well but it is not visible at first, it can easily be made visible by clicking on the legend.
+
 <img src='images/page2main.PNG.jpg' height=250)/>
 
 This page also contains a graph showing the relative strength index over the same time frame as the main graph. If unfamiliar with RSI, the two dashed lines show two important levels of strength, the red is 70 and the green is 30. RSI above 70 usually means we are approaching oversold territory. RSI below 30 often aligns closely with local bottoms. Also shown on this graph is the total weekly trading volume again along the same time frame as the main graph.
+
 <img src='images/tagraph.jpg' height=250)/>
 
 Lastly, this page contains a line graph showing the stock price with Bollinger bands overlaid. The middle band is simply the 20-day SMA and the upper and lower bands are created using a simple calculation using the 20-day SMA along with the 20-day standard deviation. Bollinger bands can be very useful in identifying changes in the momentum of a stock's price.
+
 <img src='images/bollinger.jpg' height=250)/>
 
 ### Notes:
