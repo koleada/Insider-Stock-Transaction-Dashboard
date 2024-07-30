@@ -1,0 +1,269 @@
+
+@font-face {
+    font-family: "white-rabbit";
+    src: url("whitrabt.woff") format("woff");
+}
+html, body{
+    width: 100vw;
+    overflow-x: hidden; 
+}
+
+#top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 15vh;
+    width: 100%;
+    background-color: #5465e3;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    border-radius: 5px;
+    position: fixed;
+    top: 0;
+    z-index: 9;
+    
+}
+#title {
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    padding: 10px;
+    background-color: #5eb2c4;
+    font-weight: bold;
+    font-family: "white-rabbit";
+    left: 100%;
+    color: black;
+    border-radius: 10px;
+}
+#ticker_input{
+    width: 22vh;
+    height: 4vh;
+    text-align: center;
+    background-color: #060606;
+    color: #5465e3;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+#submit_button{
+    width: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4vh;
+    text-align: center;
+    background-color: #5eb2c4;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid #060606;
+    font-weight: bold;
+    padding: 0;
+}
+
+#inputdiv{
+    height: 100%;
+    display: flex;
+    height: 12vh;
+    width: 25vh;
+    gap: 1vh;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    border: 3px solid #5eb2c4;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    border-radius: 5px;
+    font-family: "white-rabbit";
+}
+
+#bodydiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100vw;
+}
+
+.btn-group{
+    background-color: #060606;
+    border: 1px solid #5eb2c4;
+    font-family: "white-rabbit";
+}
+#buttondiv-radio-group{
+    border-radius: 5px;
+    border: 1px solid #5eb2c4;
+    
+}
+#radios.btn-group{
+    border: 1px solid #5eb2c4;
+    background-color: #060606;
+}
+#radios.button-group{
+    border-radius: 5px;
+    border: 1px solid #5eb2c4;
+}
+
+
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active{
+    background-color: #5eb2c4;
+    border-color: #5eb2c4;
+}
+.btn-outline-primary{
+    background-color: transparent;
+    border-color: #5eb2c4;
+    color: #5eb2c4;
+    --bs-btn-hover-bg: #5465e3;
+    --bs-btn-hover-border-color: #5465e3;
+    --bs-btn-hover-color: #5465e3;
+    --bs-btn-border-color: #5eb2c4;
+}
+.radio-group .form-check {
+    padding-left: 0;
+}
+
+.radio-group .btn-group > .form-check:not(:last-child) > .btn {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.radio-group .btn-group > .form-check:not(:first-child) > .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-left: -1px;
+}
+
+#maindiv{
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+    padding-top: 15vh;
+    height: fit-content;
+}
+#graphdiv{
+    display: flex;
+    flex-direction: column;
+    height: 150vh;
+    width: 65vw;
+    gap: 1vh;
+}
+
+#main_graph{
+    width: 58vw;
+    height: 75vh;
+    border: 1px solid #7b8b8f;
+    border-radius: 5px;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 1vw;
+}
+
+#histogram{
+    width: 58vw;
+    height: 75vh;
+    border-radius: 5px;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 1vw;
+    border-radius: 5px;
+}
+
+#horizontaldiv{
+    display: flex;
+}
+
+#tablediv{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    width: calc(100% - 3vw);
+    padding-right: 1vw;
+    height: 100%;
+    padding-bottom: 1vh;
+}
+#tableheader{
+    font-size: 22px;
+    margin: 0;
+    padding: calc(1px + 1vh);
+    font-family: 'white-rabbit';
+    color: #5eb2c4;
+    font-weight: bold;
+}
+
+#innertablediv #table thead th{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+
+#innertablediv{
+    max-height: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    overflow-y: scroll;
+    width: calc(100% - 3vw);
+}
+#table{
+    width: 100%;
+    height: 100%;
+}
+#table td{
+    color: #5465e3;
+    font-family: 'white-rabbit';
+    text-align: center;
+}
+#table th, #table td{
+    border: 2px solid #5465e3;
+}
+
+tr:nth-child(){
+    background-color: #060606;
+}
+#table th{
+    color: #5EB2C4;
+    font-family: 'white-rabbit';
+    font-weight: bold;
+    text-align: center;
+}
+
+#page2div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2vh;
+}
+
+#main_fig_2 {
+    width: 85vw;
+    height: 100%;
+    margin-top: 2vh;
+}
+#bollinger_fig_2{
+    width: 85vw;
+    padding-bottom: 2vh;
+}
+#ta_fig_2{
+    width: 90vw;
+}
+
+@media (min-width: 1300px) {
+    #graphdiv{
+        width: 70vw
+    }
+
+    #tablediv{
+        width: 100%;
+        padding-right: 0;
+    }
+    #table{
+        width: 100%;
+    }
+}
