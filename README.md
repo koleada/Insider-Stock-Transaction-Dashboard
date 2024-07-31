@@ -34,13 +34,13 @@ Lastly, this page contains a line graph showing the stock price with Bollinger b
 
 <img src='images/bollinger.jpg' height=250)/>
 
-### Notes:
+## Notes:
 
 The insider trading data comes right from the SEC and is stored in the database. Due to the large size of the database, it must be downloaded from the releases section of the repository. For now, I will continue to update the database locally and thus provide a new release. Specifically, I will update the database quarterly for the time being. The database must be downloaded to your local machine for this dashboard to work.
 
 I included a lot of 'extra' code that I used for testing, creating the database, and generally experimenting before creating the actual application. There was a lot of behind-the-scenes code used to process and clean the quite messy SEC data. I created this project as something that provides use to me but also to share on my resume so I wanted to fully show my entire learning/thought process throughout the creation of this project.
 
-### Technical Details and Thought Process:
+## Technical Details and Thought Process:
 
 **Gathering Data:**
 
