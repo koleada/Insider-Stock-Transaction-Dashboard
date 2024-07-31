@@ -43,6 +43,7 @@ I included a lot of 'extra' code that I used for testing, creating the database,
 ### Technical Details and Thought Process:
 
 **Gathering Data:**
+
 After I decided this was the project I wanted to do, I began by looking into how to get the insider transaction data. There are a lot of great SEC APIs, but they ALL cost money and even still are far from ideal for extracting large amounts of data. After looking at these APIs, I pivoted and began looking at the data offered directly by the SEC. I checked out the EDGAR database in thoughts of querying the database and scraping the response with Python. The database was rather unintuitive and I decided to keep looking. The SEC has its API which is even more unintuitive than the database and has very little documentation. I messed around with it for a while until I stumbled upon a large list of insider trading data separated by quarter that are available for download. The data begins in 2006 and contains essentially all of the information I'm looking for. These files are pretty inconsistent with what values are present, contain malformed data, and are otherwise messy. Still, I knew these would be perfect for this project.
 
 **Setting Up the Database:**
